@@ -11,7 +11,7 @@ class BitmovinPlayer extends React.Component {
     };
 
     playerConfig = {
-        key: 'YOUR KEY HERE'
+        key: '1b41efb4-6d43-4a25-a76f-da64815a6b0b'
     };
 
     playerSource = () => {
