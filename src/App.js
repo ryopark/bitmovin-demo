@@ -21,10 +21,10 @@ function App() {
 <div>
     <div class="row">
         <div class="col-lg-6 player-col mt-3">
-            <img src={browserImg}  />
+            <img src={browserImg} alt="browser" />
         </div>
         <div class="col-lg-6 player-col mt-3">
-            <img src={cal}  />
+            <img src={cal} alt="calc"  />
         </div>
     </div>
     <div class="row mt-5">
